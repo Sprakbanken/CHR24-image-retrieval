@@ -1,0 +1,22 @@
+<View>
+  <Style>.wrapper {display: flex;}</Style>
+  <View className="wrapper">
+    <View className="image">
+      <Image name="image" value="$image" width="512px" />
+      <Hypertext name="url" clickableLinks="true" >
+        <a href='$image'>Image url</a>
+      </Hypertext>
+    </View>
+    <View className="choices">
+    <Choices name="choice" toName="image" showInline="false" choice="multiple">
+      <Choice value="Blank page" />
+      <Choice value="Segmentation anomaly" />
+      <Choice value="Musical notation" />
+      <Choice value="Map" />
+      <Choice value="Mathematical chart" />
+      <Choice value="Illustration or photograph" />
+      <Choice value="Graphical element (other)" />
+    </Choices>
+    </View>
+  </View>
+</View>
