@@ -1,7 +1,7 @@
 # Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection
 ## Computational Humanities Research 2024
 
-This repository contains code and supplementary materials for our paper *Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection*.
+This repository contains code and supplementary materials for our paper *Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection* (available on [arXiv:2410.14969](https://arxiv.org/abs/2410.14969)).
 
 ## Supplementary materials
 
